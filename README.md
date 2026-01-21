@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 3 |
-| Medium | 4 |
+| Medium | 5 |
 | Hard | 1 |
-| **Total** | **8** |
+| **Total** | **9** |
 
 ## Solutions
 
@@ -23,3 +23,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 6 | [Smallest Subarray With Sum Greater Than X5651](https://www.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1) | Easy | [Solution](Easy/smallest-subarray-with-sum-greater-than-x5651.java) |
 | 7 | [Maximum Product Subarray3604](https://www.geeksforgeeks.org/problems/maximum-product-subarray3604/1) | Medium | [Solution](Medium/maximum-product-subarray3604.java) |
 | 8 | [Max Circular Subarray Sum 1587115620](https://www.geeksforgeeks.org/problems/max-circular-subarray-sum-1587115620/1) | Hard | [Solution](Hard/max-circular-subarray-sum-1587115620.java) |
+| 9 | [Number Of Coins1824](https://www.geeksforgeeks.org/problems/number-of-coins1824/1) | Medium | [Solution](Medium/number-of-coins1824.java) |
