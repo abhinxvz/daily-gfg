@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 3 |
-| Medium | 3 |
+| Medium | 4 |
 | Hard | 0 |
-| **Total** | **6** |
+| **Total** | **7** |
 
 ## Solutions
 
@@ -21,3 +21,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 4 | [Split An Array Into Two Equal Sum Subarrays](https://www.geeksforgeeks.org/problems/split-an-array-into-two-equal-sum-subarrays/1) | Easy | [Solution](Easy/split-an-array-into-two-equal-sum-subarrays.java) |
 | 5 | [Spirally Traversing A Matrix 1587115621](https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1) | Medium | [Solution](Medium/spirally-traversing-a-matrix-1587115621.java) |
 | 6 | [Smallest Subarray With Sum Greater Than X5651](https://www.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1) | Easy | [Solution](Easy/smallest-subarray-with-sum-greater-than-x5651.java) |
+| 7 | [Maximum Product Subarray3604](https://www.geeksforgeeks.org/problems/maximum-product-subarray3604/1) | Medium | [Solution](Medium/maximum-product-subarray3604.java) |
