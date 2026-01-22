@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 3 |
-| Medium | 7 |
+| Medium | 8 |
 | Hard | 1 |
-| **Total** | **11** |
+| **Total** | **12** |
 
 ## Solutions
 
@@ -26,3 +26,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 9 | [Number Of Coins1824](https://www.geeksforgeeks.org/problems/number-of-coins1824/1) | Medium | [Solution](Medium/number-of-coins1824.java) |
 | 10 | [Coin Change2448](https://www.geeksforgeeks.org/problems/coin-change2448/1) | Medium | [Solution](Medium/coin-change2448.java) |
 | 11 | [Longest Common Subsequence 1587115620](https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1) | Medium | [Solution](Medium/longest-common-subsequence-1587115620.java) |
+| 12 | [Longest Palindromic Subsequence 1612327878](https://www.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1) | Medium | [Solution](Medium/longest-palindromic-subsequence-1612327878.java) |
