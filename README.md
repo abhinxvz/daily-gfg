@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 4 |
-| Medium | 9 |
+| Medium | 10 |
 | Hard | 1 |
-| **Total** | **14** |
+| **Total** | **15** |
 
 ## Solutions
 
@@ -29,3 +29,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 12 | [Longest Palindromic Subsequence 1612327878](https://www.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1) | Medium | [Solution](Medium/longest-palindromic-subsequence-1612327878.java) |
 | 13 | [Shortest Common Supersequence0322](https://www.geeksforgeeks.org/problems/shortest-common-supersequence0322/1) | Medium | [Solution](Medium/shortest-common-supersequence0322.java) |
 | 14 | [Bfs Traversal Of Graph](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | Easy | [Solution](Easy/bfs-traversal-of-graph.java) |
+| 15 | [Number Of Provinces](https://www.geeksforgeeks.org/problems/number-of-provinces/1) | Medium | [Solution](Medium/number-of-provinces.java) |
