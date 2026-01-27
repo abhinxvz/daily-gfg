@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 4 |
-| Medium | 11 |
+| Medium | 12 |
 | Hard | 1 |
-| **Total** | **16** |
+| **Total** | **17** |
 
 ## Solutions
 
@@ -31,3 +31,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 14 | [Bfs Traversal Of Graph](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | Easy | [Solution](Easy/bfs-traversal-of-graph.java) |
 | 15 | [Number Of Provinces](https://www.geeksforgeeks.org/problems/number-of-provinces/1) | Medium | [Solution](Medium/number-of-provinces.java) |
 | 16 | [Word Search](https://www.geeksforgeeks.org/problems/word-search/1) | Medium | [Solution](Medium/word-search.java) |
+| 17 | [Subset Sum Problem 1611555638](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | Medium | [Solution](Medium/subset-sum-problem-1611555638.java) |
