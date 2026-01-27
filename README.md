@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 4 |
-| Medium | 12 |
+| Medium | 13 |
 | Hard | 1 |
-| **Total** | **17** |
+| **Total** | **18** |
 
 ## Solutions
 
@@ -32,3 +32,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 15 | [Number Of Provinces](https://www.geeksforgeeks.org/problems/number-of-provinces/1) | Medium | [Solution](Medium/number-of-provinces.java) |
 | 16 | [Word Search](https://www.geeksforgeeks.org/problems/word-search/1) | Medium | [Solution](Medium/word-search.java) |
 | 17 | [Subset Sum Problem 1611555638](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | Medium | [Solution](Medium/subset-sum-problem-1611555638.java) |
+| 18 | [Longest Increasing Subsequence 1587115620](https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1) | Medium | [Solution](Medium/longest-increasing-subsequence-1587115620.java) |
