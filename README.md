@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 4 |
-| Medium | 14 |
+| Medium | 15 |
 | Hard | 1 |
-| **Total** | **19** |
+| **Total** | **20** |
 
 ## Solutions
 
@@ -34,3 +34,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 17 | [Subset Sum Problem 1611555638](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | Medium | [Solution](Medium/subset-sum-problem-1611555638.java) |
 | 18 | [Longest Increasing Subsequence 1587115620](https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1) | Medium | [Solution](Medium/longest-increasing-subsequence-1587115620.java) |
 | 19 | [Fractional Knapsack 1587115620](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | Medium | [Solution](Medium/fractional-knapsack-1587115620.java) |
+| 20 | [Fractional Knapsack 1587115620](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | Medium | [Solution](Medium/fractional-knapsack-1587115620.java) |
