@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 4 |
-| Medium | 22 |
+| Medium | 23 |
 | Hard | 1 |
-| **Total** | **27** |
+| **Total** | **28** |
 
 ## Solutions
 
@@ -42,3 +42,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 25 | [Fractional Knapsack 1587115620](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | Medium | [Solution](Medium/fractional-knapsack-1587115620.java) |
 | 26 | [Fractional Knapsack 1587115620](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | Medium | [Solution](Medium/fractional-knapsack-1587115620.java) |
 | 27 | [Fractional Knapsack 1587115620](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | Medium | [Solution](Medium/fractional-knapsack-1587115620.java) |
+| 28 | [Fractional Knapsack 1587115620](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | Medium | [Solution](Medium/fractional-knapsack-1587115620.java) |
