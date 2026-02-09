@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 6 |
-| Medium | 27 |
+| Medium | 28 |
 | Hard | 1 |
-| **Total** | **34** |
+| **Total** | **35** |
 
 ## Solutions
 
@@ -49,3 +49,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 32 | [Fractional Knapsack 1587115620](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | Medium | [Solution](Medium/fractional-knapsack-1587115620.java) |
 | 33 | [ Minimum Number Of Coins4426](https://www.geeksforgeeks.org/problems/-minimum-number-of-coins4426/1) | Easy | [Solution](Easy/-minimum-number-of-coins4426.java) |
 | 34 | [N Meetings In One Room 1587115620](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1) | Easy | [Solution](Easy/n-meetings-in-one-room-1587115620.java) |
+| 35 | [Minimum Platforms 1587115620](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | Medium | [Solution](Medium/minimum-platforms-1587115620.java) |
