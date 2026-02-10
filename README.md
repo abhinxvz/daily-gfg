@@ -8,8 +8,8 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 |------------|-------|
 | Easy | 6 |
 | Medium | 29 |
-| Hard | 1 |
-| **Total** | **36** |
+| Hard | 2 |
+| **Total** | **37** |
 
 ## Solutions
 
@@ -51,3 +51,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 34 | [N Meetings In One Room 1587115620](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1) | Easy | [Solution](Easy/n-meetings-in-one-room-1587115620.java) |
 | 35 | [Minimum Platforms 1587115620](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | Medium | [Solution](Medium/minimum-platforms-1587115620.java) |
 | 36 | [Shortest Job First](https://www.geeksforgeeks.org/problems/shortest-job-first/1) | Medium | [Solution](Medium/shortest-job-first.java) |
+| 37 | [Candy](https://www.geeksforgeeks.org/problems/candy/1) | Hard | [Solution](Hard/candy.java) |
