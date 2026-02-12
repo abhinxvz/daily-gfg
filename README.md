@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 6 |
-| Medium | 29 |
+| Medium | 30 |
 | Hard | 2 |
-| **Total** | **37** |
+| **Total** | **38** |
 
 ## Solutions
 
@@ -52,3 +52,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 35 | [Minimum Platforms 1587115620](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | Medium | [Solution](Medium/minimum-platforms-1587115620.java) |
 | 36 | [Shortest Job First](https://www.geeksforgeeks.org/problems/shortest-job-first/1) | Medium | [Solution](Medium/shortest-job-first.java) |
 | 37 | [Candy](https://www.geeksforgeeks.org/problems/candy/1) | Hard | [Solution](Hard/candy.java) |
+| 38 | [Immediate Smaller Element1142](https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1) | Medium | [Solution](Medium/immediate-smaller-element1142.java) |
