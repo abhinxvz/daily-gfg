@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 6 |
+| Easy | 7 |
 | Medium | 31 |
 | Hard | 2 |
-| **Total** | **39** |
+| **Total** | **40** |
 
 ## Solutions
 
@@ -54,3 +54,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 37 | [Candy](https://www.geeksforgeeks.org/problems/candy/1) | Hard | [Solution](Hard/candy.java) |
 | 38 | [Immediate Smaller Element1142](https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1) | Medium | [Solution](Medium/immediate-smaller-element1142.java) |
 | 39 | [Bfs Traversal Of Graph](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | Medium | [Solution](Medium/bfs-traversal-of-graph.java) |
+| 40 | [Depth First Traversal For A Graph](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | Easy | [Solution](Easy/depth-first-traversal-for-a-graph.java) |
