@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 6 |
-| Medium | 30 |
+| Medium | 31 |
 | Hard | 2 |
-| **Total** | **38** |
+| **Total** | **39** |
 
 ## Solutions
 
@@ -53,3 +53,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 36 | [Shortest Job First](https://www.geeksforgeeks.org/problems/shortest-job-first/1) | Medium | [Solution](Medium/shortest-job-first.java) |
 | 37 | [Candy](https://www.geeksforgeeks.org/problems/candy/1) | Hard | [Solution](Hard/candy.java) |
 | 38 | [Immediate Smaller Element1142](https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1) | Medium | [Solution](Medium/immediate-smaller-element1142.java) |
+| 39 | [Bfs Traversal Of Graph](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | Medium | [Solution](Medium/bfs-traversal-of-graph.java) |
