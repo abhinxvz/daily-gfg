@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 8 |
-| Medium | 33 |
+| Medium | 34 |
 | Hard | 2 |
-| **Total** | **43** |
+| **Total** | **44** |
 
 ## Solutions
 
@@ -58,3 +58,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 41 | [Rotation4723](https://www.geeksforgeeks.org/problems/rotation4723/1) | Easy | [Solution](Easy/rotation4723.java) |
 | 42 | [Peak Element](https://www.geeksforgeeks.org/problems/peak-element/1) | Medium | [Solution](Medium/peak-element.java) |
 | 43 | [Implementing Floyd Warshall2042](https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) | Medium | [Solution](Medium/implementing-floyd-warshall2042.java) |
+| 44 | [Transitive Closure Of A Graph0930](https://www.geeksforgeeks.org/problems/transitive-closure-of-a-graph0930/1) | Medium | [Solution](Medium/transitive-closure-of-a-graph0930.java) |
