@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 8 |
-| Medium | 32 |
+| Medium | 33 |
 | Hard | 2 |
-| **Total** | **42** |
+| **Total** | **43** |
 
 ## Solutions
 
@@ -57,3 +57,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 40 | [Depth First Traversal For A Graph](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | Easy | [Solution](Easy/depth-first-traversal-for-a-graph.java) |
 | 41 | [Rotation4723](https://www.geeksforgeeks.org/problems/rotation4723/1) | Easy | [Solution](Easy/rotation4723.java) |
 | 42 | [Peak Element](https://www.geeksforgeeks.org/problems/peak-element/1) | Medium | [Solution](Medium/peak-element.java) |
+| 43 | [Implementing Floyd Warshall2042](https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) | Medium | [Solution](Medium/implementing-floyd-warshall2042.java) |
