@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 8 |
-| Medium | 31 |
+| Medium | 32 |
 | Hard | 2 |
-| **Total** | **41** |
+| **Total** | **42** |
 
 ## Solutions
 
@@ -56,3 +56,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 39 | [Bfs Traversal Of Graph](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | Medium | [Solution](Medium/bfs-traversal-of-graph.java) |
 | 40 | [Depth First Traversal For A Graph](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | Easy | [Solution](Easy/depth-first-traversal-for-a-graph.java) |
 | 41 | [Rotation4723](https://www.geeksforgeeks.org/problems/rotation4723/1) | Easy | [Solution](Easy/rotation4723.java) |
+| 42 | [Peak Element](https://www.geeksforgeeks.org/problems/peak-element/1) | Medium | [Solution](Medium/peak-element.java) |
