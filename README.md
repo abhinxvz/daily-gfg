@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 8 |
-| Medium | 37 |
+| Medium | 38 |
 | Hard | 2 |
-| **Total** | **47** |
+| **Total** | **48** |
 
 ## Solutions
 
@@ -62,3 +62,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 45 | [Koko Eating Bananas](https://www.geeksforgeeks.org/problems/koko-eating-bananas/1) | Medium | [Solution](Medium/koko-eating-bananas.java) |
 | 46 | [Distance From The Source Bellman Ford Algorithm](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) | Medium | [Solution](Medium/distance-from-the-source-bellman-ford-algorithm.java) |
 | 47 | [Count Ways To Reach The Nth Stair 1587115620](https://www.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1) | Medium | [Solution](Medium/count-ways-to-reach-the-nth-stair-1587115620.java) |
+| 48 | [Max Sum Without Adjacents2430](https://www.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1) | Medium | [Solution](Medium/max-sum-without-adjacents2430.java) |
