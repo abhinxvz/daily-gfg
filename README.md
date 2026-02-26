@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 8 |
-| Medium | 36 |
+| Medium | 37 |
 | Hard | 2 |
-| **Total** | **46** |
+| **Total** | **47** |
 
 ## Solutions
 
@@ -61,3 +61,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 44 | [Transitive Closure Of A Graph0930](https://www.geeksforgeeks.org/problems/transitive-closure-of-a-graph0930/1) | Medium | [Solution](Medium/transitive-closure-of-a-graph0930.java) |
 | 45 | [Koko Eating Bananas](https://www.geeksforgeeks.org/problems/koko-eating-bananas/1) | Medium | [Solution](Medium/koko-eating-bananas.java) |
 | 46 | [Distance From The Source Bellman Ford Algorithm](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) | Medium | [Solution](Medium/distance-from-the-source-bellman-ford-algorithm.java) |
+| 47 | [Count Ways To Reach The Nth Stair 1587115620](https://www.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1) | Medium | [Solution](Medium/count-ways-to-reach-the-nth-stair-1587115620.java) |
