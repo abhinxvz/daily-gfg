@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 8 |
-| Medium | 39 |
+| Medium | 40 |
 | Hard | 3 |
-| **Total** | **50** |
+| **Total** | **51** |
 
 ## Solutions
 
@@ -65,3 +65,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 48 | [Max Sum Without Adjacents2430](https://www.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1) | Medium | [Solution](Medium/max-sum-without-adjacents2430.java) |
 | 49 | [Print All Lcs Sequences3413](https://www.geeksforgeeks.org/problems/print-all-lcs-sequences3413/1) | Hard | [Solution](Hard/print-all-lcs-sequences3413.java) |
 | 50 | [Longest Common Substring1452](https://www.geeksforgeeks.org/problems/longest-common-substring1452/1) | Medium | [Solution](Medium/longest-common-substring1452.java) |
+| 51 | [Longest Palindromic Subsequence 1612327878](https://www.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1) | Medium | [Solution](Medium/longest-palindromic-subsequence-1612327878.java) |
