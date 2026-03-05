@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 8 |
-| Medium | 38 |
+| Medium | 39 |
 | Hard | 3 |
-| **Total** | **49** |
+| **Total** | **50** |
 
 ## Solutions
 
@@ -64,3 +64,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 47 | [Count Ways To Reach The Nth Stair 1587115620](https://www.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1) | Medium | [Solution](Medium/count-ways-to-reach-the-nth-stair-1587115620.java) |
 | 48 | [Max Sum Without Adjacents2430](https://www.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1) | Medium | [Solution](Medium/max-sum-without-adjacents2430.java) |
 | 49 | [Print All Lcs Sequences3413](https://www.geeksforgeeks.org/problems/print-all-lcs-sequences3413/1) | Hard | [Solution](Hard/print-all-lcs-sequences3413.java) |
+| 50 | [Longest Common Substring1452](https://www.geeksforgeeks.org/problems/longest-common-substring1452/1) | Medium | [Solution](Medium/longest-common-substring1452.java) |
