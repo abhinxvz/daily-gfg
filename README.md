@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 9 |
-| Medium | 40 |
+| Medium | 41 |
 | Hard | 4 |
-| **Total** | **53** |
+| **Total** | **54** |
 
 ## Solutions
 
@@ -68,3 +68,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 51 | [Longest Palindromic Subsequence 1612327878](https://www.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1) | Medium | [Solution](Medium/longest-palindromic-subsequence-1612327878.java) |
 | 52 | [Matrix Chain Multiplication0303](https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1) | Hard | [Solution](Hard/matrix-chain-multiplication0303.java) |
 | 53 | [Check If An Array Is Sorted0701](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) | Easy | [Solution](Easy/check-if-an-array-is-sorted0701.java) |
+| 54 | [Search In A Matrix17201720](https://www.geeksforgeeks.org/problems/search-in-a-matrix17201720/1) | Medium | [Solution](Medium/search-in-a-matrix17201720.java) |
