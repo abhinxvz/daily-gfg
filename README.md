@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 9 |
-| Medium | 43 |
+| Medium | 44 |
 | Hard | 5 |
-| **Total** | **57** |
+| **Total** | **58** |
 
 ## Solutions
 
@@ -72,3 +72,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 55 | [Peak Element](https://www.geeksforgeeks.org/problems/peak-element/1) | Medium | [Solution](Medium/peak-element.java) |
 | 56 | [Allocate Minimum Number Of Pages0937](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | Medium | [Solution](Medium/allocate-minimum-number-of-pages0937.java) |
 | 57 | [Candy](https://www.geeksforgeeks.org/problems/candy/1) | Hard | [Solution](Hard/candy.java) |
+| 58 | [Longest Distinct Characters In String5848](https://www.geeksforgeeks.org/problems/longest-distinct-characters-in-string5848/1) | Medium | [Solution](Medium/longest-distinct-characters-in-string5848.java) |
