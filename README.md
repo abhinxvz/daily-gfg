@@ -8,8 +8,8 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 |------------|-------|
 | Easy | 9 |
 | Medium | 43 |
-| Hard | 4 |
-| **Total** | **56** |
+| Hard | 5 |
+| **Total** | **57** |
 
 ## Solutions
 
@@ -71,3 +71,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 54 | [Search In A Matrix17201720](https://www.geeksforgeeks.org/problems/search-in-a-matrix17201720/1) | Medium | [Solution](Medium/search-in-a-matrix17201720.java) |
 | 55 | [Peak Element](https://www.geeksforgeeks.org/problems/peak-element/1) | Medium | [Solution](Medium/peak-element.java) |
 | 56 | [Allocate Minimum Number Of Pages0937](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | Medium | [Solution](Medium/allocate-minimum-number-of-pages0937.java) |
+| 57 | [Candy](https://www.geeksforgeeks.org/problems/candy/1) | Hard | [Solution](Hard/candy.java) |
