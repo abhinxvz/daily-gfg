@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 10 |
+| Easy | 11 |
 | Medium | 46 |
 | Hard | 5 |
-| **Total** | **61** |
+| **Total** | **62** |
 
 ## Solutions
 
@@ -76,3 +76,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 59 | [Maximize Number Of 1s0905](https://www.geeksforgeeks.org/problems/maximize-number-of-1s0905/1) | Medium | [Solution](Medium/maximize-number-of-1s0905.java) |
 | 60 | [Count Subarray With K Odds](https://www.geeksforgeeks.org/problems/count-subarray-with-k-odds/1) | Medium | [Solution](Medium/count-subarray-with-k-odds.java) |
 | 61 | [Remove Duplicate Elements From Sorted Array](https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1) | Easy | [Solution](Easy/remove-duplicate-elements-from-sorted-array.java) |
+| 62 | [Cyclically Rotate An Array By One2614](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | Easy | [Solution](Easy/cyclically-rotate-an-array-by-one2614.java) |
