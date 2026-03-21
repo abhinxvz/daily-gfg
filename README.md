@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 9 |
+| Easy | 10 |
 | Medium | 46 |
 | Hard | 5 |
-| **Total** | **60** |
+| **Total** | **61** |
 
 ## Solutions
 
@@ -75,3 +75,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 58 | [Longest Distinct Characters In String5848](https://www.geeksforgeeks.org/problems/longest-distinct-characters-in-string5848/1) | Medium | [Solution](Medium/longest-distinct-characters-in-string5848.java) |
 | 59 | [Maximize Number Of 1s0905](https://www.geeksforgeeks.org/problems/maximize-number-of-1s0905/1) | Medium | [Solution](Medium/maximize-number-of-1s0905.java) |
 | 60 | [Count Subarray With K Odds](https://www.geeksforgeeks.org/problems/count-subarray-with-k-odds/1) | Medium | [Solution](Medium/count-subarray-with-k-odds.java) |
+| 61 | [Remove Duplicate Elements From Sorted Array](https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1) | Easy | [Solution](Easy/remove-duplicate-elements-from-sorted-array.java) |
