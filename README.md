@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 11 |
-| Medium | 47 |
+| Medium | 48 |
 | Hard | 5 |
-| **Total** | **63** |
+| **Total** | **64** |
 
 ## Solutions
 
@@ -78,3 +78,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 61 | [Remove Duplicate Elements From Sorted Array](https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1) | Easy | [Solution](Easy/remove-duplicate-elements-from-sorted-array.java) |
 | 62 | [Cyclically Rotate An Array By One2614](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | Easy | [Solution](Easy/cyclically-rotate-an-array-by-one2614.java) |
 | 63 | [Sort An Array Of 0s 1s And 2s4231](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | Medium | [Solution](Medium/sort-an-array-of-0s-1s-and-2s4231.java) |
+| 64 | [Sort An Array Of 0s 1s And 2s4231](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | Medium | [Solution](Medium/sort-an-array-of-0s-1s-and-2s4231.java) |
