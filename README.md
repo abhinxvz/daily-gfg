@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 11 |
-| Medium | 46 |
+| Medium | 47 |
 | Hard | 5 |
-| **Total** | **62** |
+| **Total** | **63** |
 
 ## Solutions
 
@@ -77,3 +77,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 60 | [Count Subarray With K Odds](https://www.geeksforgeeks.org/problems/count-subarray-with-k-odds/1) | Medium | [Solution](Medium/count-subarray-with-k-odds.java) |
 | 61 | [Remove Duplicate Elements From Sorted Array](https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1) | Easy | [Solution](Easy/remove-duplicate-elements-from-sorted-array.java) |
 | 62 | [Cyclically Rotate An Array By One2614](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | Easy | [Solution](Easy/cyclically-rotate-an-array-by-one2614.java) |
+| 63 | [Sort An Array Of 0s 1s And 2s4231](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | Medium | [Solution](Medium/sort-an-array-of-0s-1s-and-2s4231.java) |
