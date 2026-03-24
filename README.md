@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 11 |
+| Easy | 12 |
 | Medium | 48 |
 | Hard | 5 |
-| **Total** | **64** |
+| **Total** | **65** |
 
 ## Solutions
 
@@ -79,3 +79,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 62 | [Cyclically Rotate An Array By One2614](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | Easy | [Solution](Easy/cyclically-rotate-an-array-by-one2614.java) |
 | 63 | [Sort An Array Of 0s 1s And 2s4231](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | Medium | [Solution](Medium/sort-an-array-of-0s-1s-and-2s4231.java) |
 | 64 | [Sort An Array Of 0s 1s And 2s4231](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | Medium | [Solution](Medium/sort-an-array-of-0s-1s-and-2s4231.java) |
+| 65 | [Does Array Represent Heap4345](https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1) | Easy | [Solution](Easy/does-array-represent-heap4345.java) |
