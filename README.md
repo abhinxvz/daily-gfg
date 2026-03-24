@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 12 |
-| Medium | 48 |
+| Medium | 49 |
 | Hard | 5 |
-| **Total** | **65** |
+| **Total** | **66** |
 
 ## Solutions
 
@@ -80,3 +80,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 63 | [Sort An Array Of 0s 1s And 2s4231](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | Medium | [Solution](Medium/sort-an-array-of-0s-1s-and-2s4231.java) |
 | 64 | [Sort An Array Of 0s 1s And 2s4231](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | Medium | [Solution](Medium/sort-an-array-of-0s-1s-and-2s4231.java) |
 | 65 | [Does Array Represent Heap4345](https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1) | Easy | [Solution](Easy/does-array-represent-heap4345.java) |
+| 66 | [Does Array Represent Heap4345](https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1) | Medium | [Solution](Medium/does-array-represent-heap4345.java) |
