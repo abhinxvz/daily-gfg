@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 12 |
-| Medium | 52 |
+| Medium | 53 |
 | Hard | 5 |
-| **Total** | **69** |
+| **Total** | **70** |
 
 ## Solutions
 
@@ -84,3 +84,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 67 | [Convert Min Heap To Max Heap 1666385109](https://www.geeksforgeeks.org/problems/convert-min-heap-to-max-heap-1666385109/1) | Medium | [Solution](Medium/convert-min-heap-to-max-heap-1666385109.java) |
 | 68 | [Kth Smallest Element5635](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) | Medium | [Solution](Medium/kth-smallest-element5635.java) |
 | 69 | [Subsets 1613027340](https://www.geeksforgeeks.org/problems/subsets-1613027340/1) | Medium | [Solution](Medium/subsets-1613027340.java) |
+| 70 | [Single Number1014](https://www.geeksforgeeks.org/problems/single-number1014/1) | Medium | [Solution](Medium/single-number1014.java) |
