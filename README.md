@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 12 |
-| Medium | 51 |
+| Medium | 52 |
 | Hard | 5 |
-| **Total** | **68** |
+| **Total** | **69** |
 
 ## Solutions
 
@@ -83,3 +83,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 66 | [Does Array Represent Heap4345](https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1) | Medium | [Solution](Medium/does-array-represent-heap4345.java) |
 | 67 | [Convert Min Heap To Max Heap 1666385109](https://www.geeksforgeeks.org/problems/convert-min-heap-to-max-heap-1666385109/1) | Medium | [Solution](Medium/convert-min-heap-to-max-heap-1666385109.java) |
 | 68 | [Kth Smallest Element5635](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) | Medium | [Solution](Medium/kth-smallest-element5635.java) |
+| 69 | [Subsets 1613027340](https://www.geeksforgeeks.org/problems/subsets-1613027340/1) | Medium | [Solution](Medium/subsets-1613027340.java) |
