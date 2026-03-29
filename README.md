@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 14 |
+| Easy | 15 |
 | Medium | 53 |
 | Hard | 5 |
-| **Total** | **72** |
+| **Total** | **73** |
 
 ## Solutions
 
@@ -87,3 +87,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 70 | [Single Number1014](https://www.geeksforgeeks.org/problems/single-number1014/1) | Medium | [Solution](Medium/single-number1014.java) |
 | 71 | [Single Number1014](https://www.geeksforgeeks.org/problems/single-number1014/1) | Easy | [Solution](Easy/single-number1014.java) |
 | 72 | [Find Xor Of Numbers From L To R](https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1) | Easy | [Solution](Easy/find-xor-of-numbers-from-l-to-r.java) |
+| 73 | [Find The Odd Occurence4820](https://www.geeksforgeeks.org/problems/find-the-odd-occurence4820/1) | Easy | [Solution](Easy/find-the-odd-occurence4820.java) |
