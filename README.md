@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 13 |
+| Easy | 14 |
 | Medium | 53 |
 | Hard | 5 |
-| **Total** | **71** |
+| **Total** | **72** |
 
 ## Solutions
 
@@ -86,3 +86,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 69 | [Subsets 1613027340](https://www.geeksforgeeks.org/problems/subsets-1613027340/1) | Medium | [Solution](Medium/subsets-1613027340.java) |
 | 70 | [Single Number1014](https://www.geeksforgeeks.org/problems/single-number1014/1) | Medium | [Solution](Medium/single-number1014.java) |
 | 71 | [Single Number1014](https://www.geeksforgeeks.org/problems/single-number1014/1) | Easy | [Solution](Easy/single-number1014.java) |
+| 72 | [Find Xor Of Numbers From L To R](https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1) | Easy | [Solution](Easy/find-xor-of-numbers-from-l-to-r.java) |
