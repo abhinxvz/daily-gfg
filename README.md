@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 17 |
+| Easy | 18 |
 | Medium | 54 |
 | Hard | 5 |
-| **Total** | **76** |
+| **Total** | **77** |
 
 ## Solutions
 
@@ -91,3 +91,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 74 | [Two Numbers With Odd Occurrences5846](https://www.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/1) | Medium | [Solution](Medium/two-numbers-with-odd-occurrences5846.java) |
 | 75 | [Outermost Parentheses](https://www.geeksforgeeks.org/problems/outermost-parentheses/1) | Easy | [Solution](Easy/outermost-parentheses.java) |
 | 76 | [Anagram 1587115620](https://www.geeksforgeeks.org/problems/anagram-1587115620/1) | Easy | [Solution](Easy/anagram-1587115620.java) |
+| 77 | [Isomorphic Strings 1587115620](https://www.geeksforgeeks.org/problems/isomorphic-strings-1587115620/1) | Easy | [Solution](Easy/isomorphic-strings-1587115620.java) |
