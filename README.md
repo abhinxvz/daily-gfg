@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 15 |
+| Easy | 16 |
 | Medium | 54 |
 | Hard | 5 |
-| **Total** | **74** |
+| **Total** | **75** |
 
 ## Solutions
 
@@ -89,3 +89,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 72 | [Find Xor Of Numbers From L To R](https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1) | Easy | [Solution](Easy/find-xor-of-numbers-from-l-to-r.java) |
 | 73 | [Find The Odd Occurence4820](https://www.geeksforgeeks.org/problems/find-the-odd-occurence4820/1) | Easy | [Solution](Easy/find-the-odd-occurence4820.java) |
 | 74 | [Two Numbers With Odd Occurrences5846](https://www.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/1) | Medium | [Solution](Medium/two-numbers-with-odd-occurrences5846.java) |
+| 75 | [Outermost Parentheses](https://www.geeksforgeeks.org/problems/outermost-parentheses/1) | Easy | [Solution](Easy/outermost-parentheses.java) |
