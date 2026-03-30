@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 15 |
-| Medium | 53 |
+| Medium | 54 |
 | Hard | 5 |
-| **Total** | **73** |
+| **Total** | **74** |
 
 ## Solutions
 
@@ -88,3 +88,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 71 | [Single Number1014](https://www.geeksforgeeks.org/problems/single-number1014/1) | Easy | [Solution](Easy/single-number1014.java) |
 | 72 | [Find Xor Of Numbers From L To R](https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1) | Easy | [Solution](Easy/find-xor-of-numbers-from-l-to-r.java) |
 | 73 | [Find The Odd Occurence4820](https://www.geeksforgeeks.org/problems/find-the-odd-occurence4820/1) | Easy | [Solution](Easy/find-the-odd-occurence4820.java) |
+| 74 | [Two Numbers With Odd Occurrences5846](https://www.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/1) | Medium | [Solution](Medium/two-numbers-with-odd-occurrences5846.java) |
