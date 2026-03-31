@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 18 |
-| Medium | 54 |
+| Medium | 55 |
 | Hard | 5 |
-| **Total** | **77** |
+| **Total** | **78** |
 
 ## Solutions
 
@@ -92,3 +92,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 75 | [Outermost Parentheses](https://www.geeksforgeeks.org/problems/outermost-parentheses/1) | Easy | [Solution](Easy/outermost-parentheses.java) |
 | 76 | [Anagram 1587115620](https://www.geeksforgeeks.org/problems/anagram-1587115620/1) | Easy | [Solution](Easy/anagram-1587115620.java) |
 | 77 | [Isomorphic Strings 1587115620](https://www.geeksforgeeks.org/problems/isomorphic-strings-1587115620/1) | Easy | [Solution](Easy/isomorphic-strings-1587115620.java) |
+| 78 | [Count Substring](https://www.geeksforgeeks.org/problems/count-substring/1) | Medium | [Solution](Medium/count-substring.java) |
