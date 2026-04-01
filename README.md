@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 18 |
-| Medium | 55 |
+| Medium | 56 |
 | Hard | 5 |
-| **Total** | **78** |
+| **Total** | **79** |
 
 ## Solutions
 
@@ -93,3 +93,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 76 | [Anagram 1587115620](https://www.geeksforgeeks.org/problems/anagram-1587115620/1) | Easy | [Solution](Easy/anagram-1587115620.java) |
 | 77 | [Isomorphic Strings 1587115620](https://www.geeksforgeeks.org/problems/isomorphic-strings-1587115620/1) | Easy | [Solution](Easy/isomorphic-strings-1587115620.java) |
 | 78 | [Count Substring](https://www.geeksforgeeks.org/problems/count-substring/1) | Medium | [Solution](Medium/count-substring.java) |
+| 79 | [Longest Common Subsequence 1587115620](https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1) | Medium | [Solution](Medium/longest-common-subsequence-1587115620.java) |
