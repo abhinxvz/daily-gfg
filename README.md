@@ -8,8 +8,8 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 |------------|-------|
 | Easy | 18 |
 | Medium | 56 |
-| Hard | 5 |
-| **Total** | **79** |
+| Hard | 6 |
+| **Total** | **80** |
 
 ## Solutions
 
@@ -94,3 +94,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 77 | [Isomorphic Strings 1587115620](https://www.geeksforgeeks.org/problems/isomorphic-strings-1587115620/1) | Easy | [Solution](Easy/isomorphic-strings-1587115620.java) |
 | 78 | [Count Substring](https://www.geeksforgeeks.org/problems/count-substring/1) | Medium | [Solution](Medium/count-substring.java) |
 | 79 | [Longest Common Subsequence 1587115620](https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1) | Medium | [Solution](Medium/longest-common-subsequence-1587115620.java) |
+| 80 | [Edit Distance3702](https://www.geeksforgeeks.org/problems/edit-distance3702/1) | Hard | [Solution](Hard/edit-distance3702.java) |
