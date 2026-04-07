@@ -8,8 +8,8 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 |------------|-------|
 | Easy | 18 |
 | Medium | 56 |
-| Hard | 6 |
-| **Total** | **80** |
+| Hard | 7 |
+| **Total** | **81** |
 
 ## Solutions
 
@@ -95,3 +95,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 78 | [Count Substring](https://www.geeksforgeeks.org/problems/count-substring/1) | Medium | [Solution](Medium/count-substring.java) |
 | 79 | [Longest Common Subsequence 1587115620](https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1) | Medium | [Solution](Medium/longest-common-subsequence-1587115620.java) |
 | 80 | [Edit Distance3702](https://www.geeksforgeeks.org/problems/edit-distance3702/1) | Hard | [Solution](Hard/edit-distance3702.java) |
+| 81 | [Minimum Number Of Sprinkler  170645](https://www.geeksforgeeks.org/problems/minimum-number-of-sprinkler--170645/1) | Hard | [Solution](Hard/minimum-number-of-sprinkler-170645.java) |
