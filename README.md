@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 19 |
-| Medium | 57 |
+| Medium | 58 |
 | Hard | 8 |
-| **Total** | **84** |
+| **Total** | **85** |
 
 ## Solutions
 
@@ -99,3 +99,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 82 | [Minimum Cost Of Ropes 1587115620](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) | Medium | [Solution](Medium/minimum-cost-of-ropes-1587115620.java) |
 | 83 | [Minimum Number Of Sprinkler  170645](https://www.geeksforgeeks.org/problems/minimum-number-of-sprinkler--170645/1) | Hard | [Solution](Hard/minimum-number-of-sprinkler-170645.java) |
 | 84 | [Leaders In An Array 1587115620](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) | Easy | [Solution](Easy/leaders-in-an-array-1587115620.java) |
+| 85 | [Rotate Array By N Elements 1587115621](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1) | Medium | [Solution](Medium/rotate-array-by-n-elements-1587115621.java) |
