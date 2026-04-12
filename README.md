@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 19 |
+| Easy | 20 |
 | Medium | 58 |
 | Hard | 8 |
-| **Total** | **85** |
+| **Total** | **86** |
 
 ## Solutions
 
@@ -100,3 +100,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 83 | [Minimum Number Of Sprinkler  170645](https://www.geeksforgeeks.org/problems/minimum-number-of-sprinkler--170645/1) | Hard | [Solution](Hard/minimum-number-of-sprinkler-170645.java) |
 | 84 | [Leaders In An Array 1587115620](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) | Easy | [Solution](Easy/leaders-in-an-array-1587115620.java) |
 | 85 | [Rotate Array By N Elements 1587115621](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1) | Medium | [Solution](Medium/rotate-array-by-n-elements-1587115621.java) |
+| 86 | [Parenthesis Checker2744](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1) | Easy | [Solution](Easy/parenthesis-checker2744.java) |
