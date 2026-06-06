@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 22 |
-| Medium | 58 |
+| Medium | 59 |
 | Hard | 8 |
-| **Total** | **88** |
+| **Total** | **89** |
 
 ## Solutions
 
@@ -103,3 +103,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 86 | [Parenthesis Checker2744](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1) | Easy | [Solution](Easy/parenthesis-checker2744.java) |
 | 87 | [Remove Vowels From String1446](https://www.geeksforgeeks.org/problems/remove-vowels-from-string1446/1) | Easy | [Solution](Easy/remove-vowels-from-string1446.java) |
 | 88 | [First And Last Occurrences Of X3116](https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1) | Easy | [Solution](Easy/first-and-last-occurrences-of-x3116.java) |
+| 89 | [First And Last Occurrences Of X3116](https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1) | Medium | [Solution](Medium/first-and-last-occurrences-of-x3116.java) |
