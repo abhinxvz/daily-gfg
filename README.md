@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 22 |
-| Medium | 60 |
+| Medium | 61 |
 | Hard | 8 |
-| **Total** | **90** |
+| **Total** | **91** |
 
 ## Solutions
 
@@ -105,3 +105,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 88 | [First And Last Occurrences Of X3116](https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1) | Easy | [Solution](Easy/first-and-last-occurrences-of-x3116.java) |
 | 89 | [First And Last Occurrences Of X3116](https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1) | Medium | [Solution](Medium/first-and-last-occurrences-of-x3116.java) |
 | 90 | [First And Last Occurrences Of X3116](https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1) | Medium | [Solution](Medium/first-and-last-occurrences-of-x3116.java) |
+| 91 | [First And Last Occurrences Of X3116](https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1) | Medium | [Solution](Medium/first-and-last-occurrences-of-x3116.java) |
