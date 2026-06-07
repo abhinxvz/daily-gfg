@@ -7,24 +7,34 @@ URL: https://www.geeksforgeeks.org/problems/rotation4723/1
 
 class Solution {
     public int findKRotation(int arr[]) {
-        int n = arr.length;
+         int n = arr.length;
         int left = 0;
         int right = n - 1;
-        if(arr[left] <= arr[right])
-        {
-            return 0;
-        }
-        while(left < right)
+        int index = -1;
+        int ans = Integer.MAX_VALUE;
+        while(left <= right)
         {
             int mid = left + (right - left) / 2;
-            if(arr[mid] > arr[right])
+            if(arr[left] <= arr[mid])
             {
+                if(arr[left] < ans)
+                {   
+                    index = left;
+                    ans = arr[left];
+                }
                 left = mid + 1;
             }
             else {
-                right = mid;
+                
+                if(arr[mid] < arr[right])
+                {   
+                    index = mid;
+                    ans = arr[mid];
+                }
+                right = mid - 1;
             }
         }
-    return left;
+        return index;
+        
     }
 }
