@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 24 |
-| Medium | 65 |
+| Medium | 66 |
 | Hard | 8 |
-| **Total** | **97** |
+| **Total** | **98** |
 
 ## Solutions
 
@@ -112,3 +112,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 95 | [First And Last Occurrences Of X3116](https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1) | Medium | [Solution](Medium/first-and-last-occurrences-of-x3116.java) |
 | 96 | [Number Of Occurrence2259](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1) | Easy | [Solution](Easy/number-of-occurrence2259.java) |
 | 97 | [Rotation4723](https://www.geeksforgeeks.org/problems/rotation4723/1) | Easy | [Solution](Easy/rotation4723.java) |
+| 98 | [ Minimum Number Of Coins4426](https://www.geeksforgeeks.org/problems/-minimum-number-of-coins4426/1) | Medium | [Solution](Medium/-minimum-number-of-coins4426.java) |
