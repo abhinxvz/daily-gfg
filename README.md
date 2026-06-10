@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 24 |
-| Medium | 67 |
+| Medium | 68 |
 | Hard | 8 |
-| **Total** | **99** |
+| **Total** | **100** |
 
 ## Solutions
 
@@ -114,3 +114,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 97 | [Rotation4723](https://www.geeksforgeeks.org/problems/rotation4723/1) | Easy | [Solution](Easy/rotation4723.java) |
 | 98 | [ Minimum Number Of Coins4426](https://www.geeksforgeeks.org/problems/-minimum-number-of-coins4426/1) | Medium | [Solution](Medium/-minimum-number-of-coins4426.java) |
 | 99 | [Activity Selection 1587115620](https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1) | Medium | [Solution](Medium/activity-selection-1587115620.java) |
+| 100 | [Activity Selection 1587115620](https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1) | Medium | [Solution](Medium/activity-selection-1587115620.java) |
