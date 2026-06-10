@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 24 |
-| Medium | 68 |
+| Medium | 69 |
 | Hard | 8 |
-| **Total** | **100** |
+| **Total** | **101** |
 
 ## Solutions
 
@@ -115,3 +115,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 98 | [ Minimum Number Of Coins4426](https://www.geeksforgeeks.org/problems/-minimum-number-of-coins4426/1) | Medium | [Solution](Medium/-minimum-number-of-coins4426.java) |
 | 99 | [Activity Selection 1587115620](https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1) | Medium | [Solution](Medium/activity-selection-1587115620.java) |
 | 100 | [Activity Selection 1587115620](https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1) | Medium | [Solution](Medium/activity-selection-1587115620.java) |
+| 101 | [Minimum Platforms 1587115620](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | Medium | [Solution](Medium/minimum-platforms-1587115620.java) |
