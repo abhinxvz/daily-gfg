@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 24 |
-| Medium | 69 |
+| Medium | 70 |
 | Hard | 8 |
-| **Total** | **101** |
+| **Total** | **102** |
 
 ## Solutions
 
@@ -116,3 +116,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 99 | [Activity Selection 1587115620](https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1) | Medium | [Solution](Medium/activity-selection-1587115620.java) |
 | 100 | [Activity Selection 1587115620](https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1) | Medium | [Solution](Medium/activity-selection-1587115620.java) |
 | 101 | [Minimum Platforms 1587115620](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | Medium | [Solution](Medium/minimum-platforms-1587115620.java) |
+| 102 | [Geek Jump](https://www.geeksforgeeks.org/problems/geek-jump/1) | Medium | [Solution](Medium/geek-jump.java) |
