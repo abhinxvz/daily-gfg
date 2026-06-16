@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 24 |
+| Easy | 25 |
 | Medium | 71 |
 | Hard | 8 |
-| **Total** | **103** |
+| **Total** | **104** |
 
 ## Solutions
 
@@ -118,3 +118,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 101 | [Minimum Platforms 1587115620](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | Medium | [Solution](Medium/minimum-platforms-1587115620.java) |
 | 102 | [Geek Jump](https://www.geeksforgeeks.org/problems/geek-jump/1) | Medium | [Solution](Medium/geek-jump.java) |
 | 103 | [Next Larger Element 1587115620](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1) | Medium | [Solution](Medium/next-larger-element-1587115620.java) |
+| 104 | [Next Greater Element](https://www.geeksforgeeks.org/problems/next-greater-element/1) | Easy | [Solution](Easy/next-greater-element.java) |
