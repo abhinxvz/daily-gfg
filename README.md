@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 25 |
-| Medium | 71 |
+| Medium | 72 |
 | Hard | 8 |
-| **Total** | **104** |
+| **Total** | **105** |
 
 ## Solutions
 
@@ -119,3 +119,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 102 | [Geek Jump](https://www.geeksforgeeks.org/problems/geek-jump/1) | Medium | [Solution](Medium/geek-jump.java) |
 | 103 | [Next Larger Element 1587115620](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1) | Medium | [Solution](Medium/next-larger-element-1587115620.java) |
 | 104 | [Next Greater Element](https://www.geeksforgeeks.org/problems/next-greater-element/1) | Easy | [Solution](Easy/next-greater-element.java) |
+| 105 | [Number Of Nges To The Right](https://www.geeksforgeeks.org/problems/number-of-nges-to-the-right/1) | Medium | [Solution](Medium/number-of-nges-to-the-right.java) |
