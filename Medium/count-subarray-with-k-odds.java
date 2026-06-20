@@ -6,31 +6,29 @@ URL: https://www.geeksforgeeks.org/problems/count-subarray-with-k-odds/1
 */
 
 class Solution {
-    public int countSubarrays(int[] arr, int k) {
-        return atmost(arr,k) - atmost(arr,k-1);
-    }
-    public int atmost(int[] arr, int k)
+     private int atmost(int arr[], int target)
     {
-        int left = 0;
-        int count = 0;
-        int odd_c = 0;
-        for(int right = 0; right < arr.length; right++)
+        int n = arr.length;
+        int sum = 0;
+        int r = 0, l = 0;
+        int cnt = 0;
+        if(target < 0)
+        return 0;
+        while(r < n)
         {
-            if(arr[right] % 2 != 0)
+            sum += arr[r]%2;
+            while(sum > target)
             {
-                odd_c++;
+                sum-= arr[l]%2;
+                l++;
             }
-            while(odd_c > k)
-            {
-                if(arr[left] % 2 != 0)
-                {
-                    odd_c--;
-                }
-                left++;
-            }
-            count+=(right-left+1);
+            cnt += (r-l+1);
+            r++;
         }
-        
-        return count;
+        return cnt;
+    }
+    public int countSubarrays(int[] arr, int k) {
+      
+     return atmost(arr, k) - atmost(arr, k - 1);
     }
 }
