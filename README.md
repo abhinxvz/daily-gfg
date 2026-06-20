@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 25 |
-| Medium | 74 |
+| Medium | 75 |
 | Hard | 8 |
-| **Total** | **107** |
+| **Total** | **108** |
 
 ## Solutions
 
@@ -122,3 +122,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 105 | [Number Of Nges To The Right](https://www.geeksforgeeks.org/problems/number-of-nges-to-the-right/1) | Medium | [Solution](Medium/number-of-nges-to-the-right.java) |
 | 106 | [Sum Of Subarray Minimum](https://www.geeksforgeeks.org/problems/sum-of-subarray-minimum/1) | Medium | [Solution](Medium/sum-of-subarray-minimum.java) |
 | 107 | [Binary Subarray With Sum](https://www.geeksforgeeks.org/problems/binary-subarray-with-sum/1) | Medium | [Solution](Medium/binary-subarray-with-sum.java) |
+| 108 | [Count Subarray With K Odds](https://www.geeksforgeeks.org/problems/count-subarray-with-k-odds/1) | Medium | [Solution](Medium/count-subarray-with-k-odds.java) |
