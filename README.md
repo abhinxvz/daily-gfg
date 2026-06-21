@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 25 |
+| Easy | 26 |
 | Medium | 75 |
 | Hard | 8 |
-| **Total** | **108** |
+| **Total** | **109** |
 
 ## Solutions
 
@@ -123,3 +123,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 106 | [Sum Of Subarray Minimum](https://www.geeksforgeeks.org/problems/sum-of-subarray-minimum/1) | Medium | [Solution](Medium/sum-of-subarray-minimum.java) |
 | 107 | [Binary Subarray With Sum](https://www.geeksforgeeks.org/problems/binary-subarray-with-sum/1) | Medium | [Solution](Medium/binary-subarray-with-sum.java) |
 | 108 | [Count Subarray With K Odds](https://www.geeksforgeeks.org/problems/count-subarray-with-k-odds/1) | Medium | [Solution](Medium/count-subarray-with-k-odds.java) |
+| 109 | [First Repeating Element4018](https://www.geeksforgeeks.org/problems/first-repeating-element4018/1) | Easy | [Solution](Easy/first-repeating-element4018.java) |
