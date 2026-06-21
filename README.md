@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 27 |
+| Easy | 28 |
 | Medium | 75 |
 | Hard | 8 |
-| **Total** | **110** |
+| **Total** | **111** |
 
 ## Solutions
 
@@ -125,3 +125,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 108 | [Count Subarray With K Odds](https://www.geeksforgeeks.org/problems/count-subarray-with-k-odds/1) | Medium | [Solution](Medium/count-subarray-with-k-odds.java) |
 | 109 | [First Repeating Element4018](https://www.geeksforgeeks.org/problems/first-repeating-element4018/1) | Easy | [Solution](Easy/first-repeating-element4018.java) |
 | 110 | [Check Whether K Th Bit Is Set Or Not 1587115620](https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1) | Easy | [Solution](Easy/check-whether-k-th-bit-is-set-or-not-1587115620.java) |
+| 111 | [Odd Or Even3618](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | Easy | [Solution](Easy/odd-or-even3618.java) |
