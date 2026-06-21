@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 32 |
+| Easy | 33 |
 | Medium | 75 |
 | Hard | 8 |
-| **Total** | **115** |
+| **Total** | **116** |
 
 ## Solutions
 
@@ -130,3 +130,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 113 | [Set Bits0143](https://www.geeksforgeeks.org/problems/set-bits0143/1) | Easy | [Solution](Easy/set-bits0143.java) |
 | 114 | [Set The Rightmost Unset Bit4436](https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | Easy | [Solution](Easy/set-the-rightmost-unset-bit4436.java) |
 | 115 | [Swap The Numbers](https://www.geeksforgeeks.org/problems/swap-the-numbers/1) | Easy | [Solution](Easy/swap-the-numbers.java) |
+| 116 | [Bit Difference 1587115620](https://www.geeksforgeeks.org/problems/bit-difference-1587115620/1) | Easy | [Solution](Easy/bit-difference-1587115620.java) |
