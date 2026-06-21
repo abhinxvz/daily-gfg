@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 30 |
+| Easy | 31 |
 | Medium | 75 |
 | Hard | 8 |
-| **Total** | **113** |
+| **Total** | **114** |
 
 ## Solutions
 
@@ -128,3 +128,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 111 | [Odd Or Even3618](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | Easy | [Solution](Easy/odd-or-even3618.java) |
 | 112 | [Power Of 2 1587115620](https://www.geeksforgeeks.org/problems/power-of-2-1587115620/1) | Easy | [Solution](Easy/power-of-2-1587115620.java) |
 | 113 | [Set Bits0143](https://www.geeksforgeeks.org/problems/set-bits0143/1) | Easy | [Solution](Easy/set-bits0143.java) |
+| 114 | [Set The Rightmost Unset Bit4436](https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | Easy | [Solution](Easy/set-the-rightmost-unset-bit4436.java) |
