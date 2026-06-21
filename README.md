@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 28 |
+| Easy | 29 |
 | Medium | 75 |
 | Hard | 8 |
-| **Total** | **111** |
+| **Total** | **112** |
 
 ## Solutions
 
@@ -126,3 +126,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 109 | [First Repeating Element4018](https://www.geeksforgeeks.org/problems/first-repeating-element4018/1) | Easy | [Solution](Easy/first-repeating-element4018.java) |
 | 110 | [Check Whether K Th Bit Is Set Or Not 1587115620](https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1) | Easy | [Solution](Easy/check-whether-k-th-bit-is-set-or-not-1587115620.java) |
 | 111 | [Odd Or Even3618](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | Easy | [Solution](Easy/odd-or-even3618.java) |
+| 112 | [Power Of 2 1587115620](https://www.geeksforgeeks.org/problems/power-of-2-1587115620/1) | Easy | [Solution](Easy/power-of-2-1587115620.java) |
