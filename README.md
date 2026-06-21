@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 31 |
+| Easy | 32 |
 | Medium | 75 |
 | Hard | 8 |
-| **Total** | **114** |
+| **Total** | **115** |
 
 ## Solutions
 
@@ -129,3 +129,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 112 | [Power Of 2 1587115620](https://www.geeksforgeeks.org/problems/power-of-2-1587115620/1) | Easy | [Solution](Easy/power-of-2-1587115620.java) |
 | 113 | [Set Bits0143](https://www.geeksforgeeks.org/problems/set-bits0143/1) | Easy | [Solution](Easy/set-bits0143.java) |
 | 114 | [Set The Rightmost Unset Bit4436](https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | Easy | [Solution](Easy/set-the-rightmost-unset-bit4436.java) |
+| 115 | [Swap The Numbers](https://www.geeksforgeeks.org/problems/swap-the-numbers/1) | Easy | [Solution](Easy/swap-the-numbers.java) |
