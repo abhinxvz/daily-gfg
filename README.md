@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 29 |
+| Easy | 30 |
 | Medium | 75 |
 | Hard | 8 |
-| **Total** | **112** |
+| **Total** | **113** |
 
 ## Solutions
 
@@ -127,3 +127,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 110 | [Check Whether K Th Bit Is Set Or Not 1587115620](https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1) | Easy | [Solution](Easy/check-whether-k-th-bit-is-set-or-not-1587115620.java) |
 | 111 | [Odd Or Even3618](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | Easy | [Solution](Easy/odd-or-even3618.java) |
 | 112 | [Power Of 2 1587115620](https://www.geeksforgeeks.org/problems/power-of-2-1587115620/1) | Easy | [Solution](Easy/power-of-2-1587115620.java) |
+| 113 | [Set Bits0143](https://www.geeksforgeeks.org/problems/set-bits0143/1) | Easy | [Solution](Easy/set-bits0143.java) |
