@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 36 |
+| Easy | 37 |
 | Medium | 75 |
 | Hard | 8 |
-| **Total** | **119** |
+| **Total** | **120** |
 
 ## Solutions
 
@@ -134,3 +134,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 117 | [Find The Odd Occurence4820](https://www.geeksforgeeks.org/problems/find-the-odd-occurence4820/1) | Easy | [Solution](Easy/find-the-odd-occurence4820.java) |
 | 118 | [Insertion At A Given Position In A Linked List](https://www.geeksforgeeks.org/problems/insertion-at-a-given-position-in-a-linked-list/1) | Easy | [Solution](Easy/insertion-at-a-given-position-in-a-linked-list.java) |
 | 119 | [Linked List Delete At Position](https://www.geeksforgeeks.org/problems/linked-list-delete-at-position/1) | Easy | [Solution](Easy/linked-list-delete-at-position.java) |
+| 120 | [Count Nodes Of Linked List](https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/1) | Easy | [Solution](Easy/count-nodes-of-linked-list.java) |
