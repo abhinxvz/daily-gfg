@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 40 |
+| Easy | 41 |
 | Medium | 75 |
 | Hard | 8 |
-| **Total** | **123** |
+| **Total** | **124** |
 
 ## Solutions
 
@@ -138,3 +138,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 121 | [Search In Linked List 1664434326](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1) | Easy | [Solution](Easy/search-in-linked-list-1664434326.java) |
 | 122 | [Insert A Node In Doubly Linked List](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1) | Easy | [Solution](Easy/insert-a-node-in-doubly-linked-list.java) |
 | 123 | [Delete Node In Doubly Linked List](https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1) | Easy | [Solution](Easy/delete-node-in-doubly-linked-list.java) |
+| 124 | [Reverse A Doubly Linked List](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1) | Easy | [Solution](Easy/reverse-a-doubly-linked-list.java) |
