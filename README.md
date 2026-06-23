@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 41 |
+| Easy | 42 |
 | Medium | 75 |
 | Hard | 8 |
-| **Total** | **124** |
+| **Total** | **125** |
 
 ## Solutions
 
@@ -139,3 +139,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 122 | [Insert A Node In Doubly Linked List](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1) | Easy | [Solution](Easy/insert-a-node-in-doubly-linked-list.java) |
 | 123 | [Delete Node In Doubly Linked List](https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1) | Easy | [Solution](Easy/delete-node-in-doubly-linked-list.java) |
 | 124 | [Reverse A Doubly Linked List](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1) | Easy | [Solution](Easy/reverse-a-doubly-linked-list.java) |
+| 125 | [Finding Middle Element In A Linked List](https://www.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1) | Easy | [Solution](Easy/finding-middle-element-in-a-linked-list.java) |
