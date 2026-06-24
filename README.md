@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 43 |
-| Medium | 76 |
+| Medium | 77 |
 | Hard | 8 |
-| **Total** | **127** |
+| **Total** | **128** |
 
 ## Solutions
 
@@ -142,3 +142,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 125 | [Finding Middle Element In A Linked List](https://www.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1) | Easy | [Solution](Easy/finding-middle-element-in-a-linked-list.java) |
 | 126 | [Reverse A Linked List](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1) | Easy | [Solution](Easy/reverse-a-linked-list.java) |
 | 127 | [Detect Loop In Linked List](https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1) | Medium | [Solution](Medium/detect-loop-in-linked-list.java) |
+| 128 | [Find The First Node Of Loop In Linked List  170645](https://www.geeksforgeeks.org/problems/find-the-first-node-of-loop-in-linked-list--170645/1) | Medium | [Solution](Medium/find-the-first-node-of-loop-in-linked-list-170645.java) |
