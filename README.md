@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 43 |
-| Medium | 80 |
+| Medium | 81 |
 | Hard | 8 |
-| **Total** | **131** |
+| **Total** | **132** |
 
 ## Solutions
 
@@ -146,3 +146,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 129 | [Find Length Of Loop](https://www.geeksforgeeks.org/problems/find-length-of-loop/1) | Medium | [Solution](Medium/find-length-of-loop.java) |
 | 130 | [Check If Linked List Is Pallindrome](https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1) | Medium | [Solution](Medium/check-if-linked-list-is-pallindrome.java) |
 | 131 | [Given A Linked List Of 0s 1s And 2s Sort It](https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1) | Medium | [Solution](Medium/given-a-linked-list-of-0s-1s-and-2s-sort-it.java) |
+| 132 | [Intersection Point In Y Shapped Linked Lists](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1) | Medium | [Solution](Medium/intersection-point-in-y-shapped-linked-lists.java) |
