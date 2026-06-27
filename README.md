@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 43 |
+| Easy | 44 |
 | Medium | 82 |
 | Hard | 8 |
-| **Total** | **133** |
+| **Total** | **134** |
 
 ## Solutions
 
@@ -148,3 +148,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 131 | [Given A Linked List Of 0s 1s And 2s Sort It](https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1) | Medium | [Solution](Medium/given-a-linked-list-of-0s-1s-and-2s-sort-it.java) |
 | 132 | [Intersection Point In Y Shapped Linked Lists](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1) | Medium | [Solution](Medium/intersection-point-in-y-shapped-linked-lists.java) |
 | 133 | [Delete All Occurrences Of A Given Key In A Doubly Linked List](https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/1) | Medium | [Solution](Medium/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list.java) |
+| 134 | [Product Array Puzzle4525](https://www.geeksforgeeks.org/problems/product-array-puzzle4525/1) | Easy | [Solution](Easy/product-array-puzzle4525.java) |
