@@ -8,8 +8,8 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 |------------|-------|
 | Easy | 44 |
 | Medium | 82 |
-| Hard | 8 |
-| **Total** | **134** |
+| Hard | 9 |
+| **Total** | **135** |
 
 ## Solutions
 
@@ -149,3 +149,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 132 | [Intersection Point In Y Shapped Linked Lists](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1) | Medium | [Solution](Medium/intersection-point-in-y-shapped-linked-lists.java) |
 | 133 | [Delete All Occurrences Of A Given Key In A Doubly Linked List](https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/1) | Medium | [Solution](Medium/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list.java) |
 | 134 | [Product Array Puzzle4525](https://www.geeksforgeeks.org/problems/product-array-puzzle4525/1) | Easy | [Solution](Easy/product-array-puzzle4525.java) |
+| 135 | [Trapping Rain Water 1587115621](https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1) | Hard | [Solution](Hard/trapping-rain-water-1587115621.java) |
