@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 44 |
-| Medium | 82 |
+| Medium | 83 |
 | Hard | 9 |
-| **Total** | **135** |
+| **Total** | **136** |
 
 ## Solutions
 
@@ -150,3 +150,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 133 | [Delete All Occurrences Of A Given Key In A Doubly Linked List](https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/1) | Medium | [Solution](Medium/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list.java) |
 | 134 | [Product Array Puzzle4525](https://www.geeksforgeeks.org/problems/product-array-puzzle4525/1) | Easy | [Solution](Easy/product-array-puzzle4525.java) |
 | 135 | [Trapping Rain Water 1587115621](https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1) | Hard | [Solution](Hard/trapping-rain-water-1587115621.java) |
+| 136 | [Longest Repeating Character Replacement](https://www.geeksforgeeks.org/problems/longest-repeating-character-replacement/1) | Medium | [Solution](Medium/longest-repeating-character-replacement.java) |
