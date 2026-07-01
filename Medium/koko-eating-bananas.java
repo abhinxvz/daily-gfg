@@ -5,30 +5,40 @@ Tags: N/A
 URL: https://www.geeksforgeeks.org/problems/koko-eating-bananas/1
 */
 
-class Solution {
-    public int kokoEat(int[] arr, int k) {
-        int high = 0;
-        int low = 1;
-        for(int a : arr)
-        {
-            high = Math.max(high,a);
+maxi = Math.max(maxi, arr[i]);
         }
-        while(low < high)
+        return maxi;
+    }
+    
+    private double maxH(int arr[], int h)
+    {
+        double maxhour = 0.0;
+        int n = arr.length;
+        for(int i = 0; i < n; i++ )
         {
-            int mid = low + (high - low ) / 2;
-            long hours = 0;
-            for(int a : arr)
+            maxhour += Math.ceil((double)arr[i]/h);
+        }
+        return maxhour;
+    }
+    public int kokoEat(int[] arr, int k) 
+    {
+        int n = arr.length;
+        int low = 0;
+        int high = maximum(arr);;
+        while(low <= high)
+        {
+            int mid = (low + high) / 2;
+            double t_hour = maxH(arr,mid);
+            if(t_hour <= k)
             {
-                hours+= (a + mid - 1)/mid;
-            }
-            if(hours<=k)
-            {
-                high = mid;
+                high = mid - 1;
             }
             else {
                 low = mid + 1;
             }
         }
         return low;
+       
     }
+    
 }
