@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 44 |
-| Medium | 84 |
+| Medium | 85 |
 | Hard | 9 |
-| **Total** | **137** |
+| **Total** | **138** |
 
 ## Solutions
 
@@ -152,3 +152,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 135 | [Trapping Rain Water 1587115621](https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1) | Hard | [Solution](Hard/trapping-rain-water-1587115621.java) |
 | 136 | [Longest Repeating Character Replacement](https://www.geeksforgeeks.org/problems/longest-repeating-character-replacement/1) | Medium | [Solution](Medium/longest-repeating-character-replacement.java) |
 | 137 | [Search In A Matrix 1587115621](https://www.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1) | Medium | [Solution](Medium/search-in-a-matrix-1587115621.java) |
+| 138 | [Search In A Rotated Array4618](https://www.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1) | Medium | [Solution](Medium/search-in-a-rotated-array4618.java) |
