@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 44 |
-| Medium | 85 |
+| Medium | 86 |
 | Hard | 9 |
-| **Total** | **138** |
+| **Total** | **139** |
 
 ## Solutions
 
@@ -153,3 +153,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 136 | [Longest Repeating Character Replacement](https://www.geeksforgeeks.org/problems/longest-repeating-character-replacement/1) | Medium | [Solution](Medium/longest-repeating-character-replacement.java) |
 | 137 | [Search In A Matrix 1587115621](https://www.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1) | Medium | [Solution](Medium/search-in-a-matrix-1587115621.java) |
 | 138 | [Search In A Rotated Array4618](https://www.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1) | Medium | [Solution](Medium/search-in-a-rotated-array4618.java) |
+| 139 | [Koko Eating Bananas](https://www.geeksforgeeks.org/problems/koko-eating-bananas/1) | Medium | [Solution](Medium/koko-eating-bananas.java) |
