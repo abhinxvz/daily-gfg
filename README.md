@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 44 |
+| Easy | 45 |
 | Medium | 86 |
 | Hard | 9 |
-| **Total** | **139** |
+| **Total** | **140** |
 
 ## Solutions
 
@@ -154,3 +154,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 137 | [Search In A Matrix 1587115621](https://www.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1) | Medium | [Solution](Medium/search-in-a-matrix-1587115621.java) |
 | 138 | [Search In A Rotated Array4618](https://www.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1) | Medium | [Solution](Medium/search-in-a-rotated-array4618.java) |
 | 139 | [Koko Eating Bananas](https://www.geeksforgeeks.org/problems/koko-eating-bananas/1) | Medium | [Solution](Medium/koko-eating-bananas.java) |
+| 140 | [Find Missing And Repeating2512](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) | Easy | [Solution](Easy/find-missing-and-repeating2512.java) |
