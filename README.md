@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 48 |
+| Easy | 49 |
 | Medium | 87 |
 | Hard | 10 |
-| **Total** | **145** |
+| **Total** | **146** |
 
 ## Solutions
 
@@ -160,3 +160,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 143 | [Parenthesis Checker2744](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1) | Easy | [Solution](Easy/parenthesis-checker2744.java) |
 | 144 | [Parenthesis Checker2744](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1) | Easy | [Solution](Easy/parenthesis-checker2744.java) |
 | 145 | [Candy](https://www.geeksforgeeks.org/problems/candy/1) | Hard | [Solution](Hard/candy.java) |
+| 146 | [Assign Cookies](https://www.geeksforgeeks.org/problems/assign-cookies/1) | Easy | [Solution](Easy/assign-cookies.java) |
