@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 46 |
+| Easy | 47 |
 | Medium | 87 |
 | Hard | 9 |
-| **Total** | **142** |
+| **Total** | **143** |
 
 ## Solutions
 
@@ -157,3 +157,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 140 | [Find Missing And Repeating2512](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) | Easy | [Solution](Easy/find-missing-and-repeating2512.java) |
 | 141 | [Longest Sub Array With Sum K0809](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | Medium | [Solution](Medium/longest-sub-array-with-sum-k0809.java) |
 | 142 | [Largest Subarray With 0 Sum](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) | Easy | [Solution](Easy/largest-subarray-with-0-sum.java) |
+| 143 | [Parenthesis Checker2744](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1) | Easy | [Solution](Easy/parenthesis-checker2744.java) |
