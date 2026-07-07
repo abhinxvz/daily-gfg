@@ -8,8 +8,8 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 |------------|-------|
 | Easy | 48 |
 | Medium | 87 |
-| Hard | 9 |
-| **Total** | **144** |
+| Hard | 10 |
+| **Total** | **145** |
 
 ## Solutions
 
@@ -159,3 +159,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 142 | [Largest Subarray With 0 Sum](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) | Easy | [Solution](Easy/largest-subarray-with-0-sum.java) |
 | 143 | [Parenthesis Checker2744](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1) | Easy | [Solution](Easy/parenthesis-checker2744.java) |
 | 144 | [Parenthesis Checker2744](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1) | Easy | [Solution](Easy/parenthesis-checker2744.java) |
+| 145 | [Candy](https://www.geeksforgeeks.org/problems/candy/1) | Hard | [Solution](Hard/candy.java) |
