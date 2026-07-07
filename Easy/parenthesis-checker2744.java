@@ -8,19 +8,26 @@ URL: https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1
 class Solution {
     public boolean isBalanced(String s) {
         Stack<Character> st = new Stack<>();
-        for(char ch : s.toCharArray())
+        
+        for(char c : s.toCharArray())
         {
-            if(ch == '(')
-            st.push(')');
-            else if(ch == '{')
-            st.push('}');
-            else if(ch == '[')
-            st.push(']');
+            if(c == '(' || c == '{' || c == '[')
+            {
+                st.push(c);
+            }
             else {
-                if(st.isEmpty() || st.pop()!=ch){
+                
+                if(st.isEmpty())
                 return false;
-            }}}
-            return st.isEmpty();
+                
+                char top = st.pop();
+                
+                if( c == ')' && top != '(' ||  c == '}' && top != '{' || c == ']' && top != '[')
+                
+                    return false;
             
+            }
         }
+        return st.isEmpty();
+    }
 }
