@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 49 |
-| Medium | 87 |
+| Medium | 88 |
 | Hard | 10 |
-| **Total** | **146** |
+| **Total** | **147** |
 
 ## Solutions
 
@@ -161,3 +161,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 144 | [Parenthesis Checker2744](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1) | Easy | [Solution](Easy/parenthesis-checker2744.java) |
 | 145 | [Candy](https://www.geeksforgeeks.org/problems/candy/1) | Hard | [Solution](Hard/candy.java) |
 | 146 | [Assign Cookies](https://www.geeksforgeeks.org/problems/assign-cookies/1) | Easy | [Solution](Easy/assign-cookies.java) |
+| 147 | [Minimum Platforms 1587115620](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | Medium | [Solution](Medium/minimum-platforms-1587115620.java) |
