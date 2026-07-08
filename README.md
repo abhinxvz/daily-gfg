@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 50 |
-| Medium | 88 |
+| Medium | 89 |
 | Hard | 10 |
-| **Total** | **148** |
+| **Total** | **149** |
 
 ## Solutions
 
@@ -163,3 +163,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 146 | [Assign Cookies](https://www.geeksforgeeks.org/problems/assign-cookies/1) | Easy | [Solution](Easy/assign-cookies.java) |
 | 147 | [Minimum Platforms 1587115620](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | Medium | [Solution](Medium/minimum-platforms-1587115620.java) |
 | 148 | [Check If An Array Is Sorted0701](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) | Easy | [Solution](Easy/check-if-an-array-is-sorted0701.java) |
+| 149 | [Next Permutation5226](https://www.geeksforgeeks.org/problems/next-permutation5226/1) | Medium | [Solution](Medium/next-permutation5226.java) |
