@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 50 |
+| Easy | 51 |
 | Medium | 89 |
 | Hard | 10 |
-| **Total** | **149** |
+| **Total** | **150** |
 
 ## Solutions
 
@@ -164,3 +164,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 147 | [Minimum Platforms 1587115620](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | Medium | [Solution](Medium/minimum-platforms-1587115620.java) |
 | 148 | [Check If An Array Is Sorted0701](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) | Easy | [Solution](Easy/check-if-an-array-is-sorted0701.java) |
 | 149 | [Next Permutation5226](https://www.geeksforgeeks.org/problems/next-permutation5226/1) | Medium | [Solution](Medium/next-permutation5226.java) |
+| 150 | [Rotation4723](https://www.geeksforgeeks.org/problems/rotation4723/1) | Easy | [Solution](Easy/rotation4723.java) |
