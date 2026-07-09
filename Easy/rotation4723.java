@@ -10,31 +10,20 @@ class Solution {
          int n = arr.length;
         int left = 0;
         int right = n - 1;
-        int index = -1;
-        int ans = Integer.MAX_VALUE;
         while(left <= right)
         {
             int mid = left + (right - left) / 2;
-            if(arr[left] <= arr[mid])
-            {
-                if(arr[left] < ans)
-                {   
-                    index = left;
-                    ans = arr[left];
-                }
-                left = mid + 1;
-            }
-            else {
-                
-                if(arr[mid] < arr[right])
-                {   
-                    index = mid;
-                    ans = arr[mid];
-                }
-                right = mid - 1;
-            }
+            
+            if(arr[left] <= arr[right])
+            return left;
+            
+            if(arr[mid] >= arr[right])
+            left = mid + 1;
+            
+            else 
+            
+            right = mid;
         }
-        return index;
-        
-    }
-}
+         
+         return left;
+    }}
