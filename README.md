@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 55 |
-| Medium | 91 |
+| Medium | 92 |
 | Hard | 10 |
-| **Total** | **156** |
+| **Total** | **157** |
 
 ## Solutions
 
@@ -171,3 +171,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 154 | [Find Length Of Loop](https://www.geeksforgeeks.org/problems/find-length-of-loop/1) | Medium | [Solution](Medium/find-length-of-loop.java) |
 | 155 | [Reverse A Linked List](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1) | Easy | [Solution](Easy/reverse-a-linked-list.java) |
 | 156 | [Reverse A Doubly Linked List](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1) | Easy | [Solution](Easy/reverse-a-doubly-linked-list.java) |
+| 157 | [Delete All Occurrences Of A Given Key In A Doubly Linked List](https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/1) | Medium | [Solution](Medium/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list.java) |
