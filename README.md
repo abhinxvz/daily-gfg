@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 54 |
+| Easy | 55 |
 | Medium | 91 |
 | Hard | 10 |
-| **Total** | **155** |
+| **Total** | **156** |
 
 ## Solutions
 
@@ -170,3 +170,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 153 | [Search In Linked List 1664434326](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1) | Easy | [Solution](Easy/search-in-linked-list-1664434326.java) |
 | 154 | [Find Length Of Loop](https://www.geeksforgeeks.org/problems/find-length-of-loop/1) | Medium | [Solution](Medium/find-length-of-loop.java) |
 | 155 | [Reverse A Linked List](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1) | Easy | [Solution](Easy/reverse-a-linked-list.java) |
+| 156 | [Reverse A Doubly Linked List](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1) | Easy | [Solution](Easy/reverse-a-doubly-linked-list.java) |
