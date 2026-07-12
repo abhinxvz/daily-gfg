@@ -7,9 +7,9 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | Difficulty | Count |
 |------------|-------|
 | Easy | 53 |
-| Medium | 90 |
+| Medium | 91 |
 | Hard | 10 |
-| **Total** | **153** |
+| **Total** | **154** |
 
 ## Solutions
 
@@ -168,3 +168,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 151 | [Stock Span Problem 1587115621](https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1) | Medium | [Solution](Medium/stock-span-problem-1587115621.java) |
 | 152 | [Search In Linked List 1664434326](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1) | Easy | [Solution](Easy/search-in-linked-list-1664434326.java) |
 | 153 | [Search In Linked List 1664434326](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1) | Easy | [Solution](Easy/search-in-linked-list-1664434326.java) |
+| 154 | [Find Length Of Loop](https://www.geeksforgeeks.org/problems/find-length-of-loop/1) | Medium | [Solution](Medium/find-length-of-loop.java) |
