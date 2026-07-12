@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 51 |
+| Easy | 52 |
 | Medium | 90 |
 | Hard | 10 |
-| **Total** | **151** |
+| **Total** | **152** |
 
 ## Solutions
 
@@ -166,3 +166,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 149 | [Next Permutation5226](https://www.geeksforgeeks.org/problems/next-permutation5226/1) | Medium | [Solution](Medium/next-permutation5226.java) |
 | 150 | [Rotation4723](https://www.geeksforgeeks.org/problems/rotation4723/1) | Easy | [Solution](Easy/rotation4723.java) |
 | 151 | [Stock Span Problem 1587115621](https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1) | Medium | [Solution](Medium/stock-span-problem-1587115621.java) |
+| 152 | [Search In Linked List 1664434326](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1) | Easy | [Solution](Easy/search-in-linked-list-1664434326.java) |
