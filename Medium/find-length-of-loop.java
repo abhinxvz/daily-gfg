@@ -25,20 +25,19 @@ class Solution {
         {
             slow = slow.next;
             fast = fast.next.next;
-            if(slow == fast)
+            
+        if(slow == fast)
+        {
+            int count = 1;
+            fast = fast.next;
+            
+            while(slow != fast)
             {
-                 int count = 1;
-
-                Node temp = slow.next;
-                while(temp!=slow)
-                {
-                    count++;
-                temp = temp.next;
-                
-                }
-                return count;
+                count++;
+                fast = fast.next;
             }
-        }
+            return count;
+        }}
         return 0;
     }
 }
