@@ -19,16 +19,15 @@ class Node {
 
 class Solution {
     Node reverseList(Node head) {
-        Node prev = null;
-        Node curr = head;
+        Node curr = head, prev = null, next;
         while(curr != null)
         {
-            Node next = curr.next;
+            next = curr.next;
             curr.next = prev;
             prev = curr;
             curr = next;
         }
-        return prev;
-        
+    
+    return prev;
     }
 }
