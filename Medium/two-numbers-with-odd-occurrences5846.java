@@ -7,34 +7,33 @@ URL: https://www.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846
 
 class Solution {
     ArrayList<Integer> twoOddNum(int[] arr) {
-        
         int xor = 0;
-        for (int num : arr) {
-            xor ^= num;
-        }
-
+        for(int num : arr)
+        xor = xor^num;
+        
         int setbits = xor & -xor;
-
-        int num1 = 0, num2 = 0;
-
-        for (int num : arr) {
-            if ((num & setbits) != 0) {
-                num1 ^= num;
-            } else {
-                num2 ^= num;
+        
+        int x = 0, y = 0;
+        for(int num : arr)
+        {
+            if((num & setbits) != 0)
+            {
+                x = x^num;
+            }
+            else {
+                y = y^num;
             }
         }
+        ArrayList<Integer> ans = new ArrayList<>();
 
-        ArrayList<Integer> result = new ArrayList<>();
-
-        if (num1 > num2) {
-            result.add(num1);
-            result.add(num2);
+        if (x > y) {
+            ans.add(x);
+            ans.add(y);
         } else {
-            result.add(num2);
-            result.add(num1);
+            ans.add(y);
+            ans.add(x);
         }
 
-        return result;
+        return ans;
     }
 }
