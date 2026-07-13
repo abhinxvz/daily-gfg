@@ -7,7 +7,9 @@ URL: https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not
 
 class CheckBit {
     static boolean checkKthBit(int n, int k) {
-        return(n & (1 << k)) != 0;
         
+        return (n & (1 << k)) != 0;
+
+
     }
 }
