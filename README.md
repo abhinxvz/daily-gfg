@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 57 |
+| Easy | 58 |
 | Medium | 92 |
 | Hard | 10 |
-| **Total** | **159** |
+| **Total** | **160** |
 
 ## Solutions
 
@@ -174,3 +174,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 157 | [Delete All Occurrences Of A Given Key In A Doubly Linked List](https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/1) | Medium | [Solution](Medium/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list.java) |
 | 158 | [Check Whether K Th Bit Is Set Or Not 1587115620](https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1) | Easy | [Solution](Easy/check-whether-k-th-bit-is-set-or-not-1587115620.java) |
 | 159 | [Odd Or Even3618](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | Easy | [Solution](Easy/odd-or-even3618.java) |
+| 160 | [Set The Rightmost Unset Bit4436](https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | Easy | [Solution](Easy/set-the-rightmost-unset-bit4436.java) |
