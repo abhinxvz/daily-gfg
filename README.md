@@ -6,10 +6,10 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 
 | Difficulty | Count |
 |------------|-------|
-| Easy | 59 |
+| Easy | 60 |
 | Medium | 93 |
 | Hard | 10 |
-| **Total** | **162** |
+| **Total** | **163** |
 
 ## Solutions
 
@@ -177,3 +177,4 @@ My GeeksforGeeks solutions - automatically synced with GFG Sync
 | 160 | [Set The Rightmost Unset Bit4436](https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | Easy | [Solution](Easy/set-the-rightmost-unset-bit4436.java) |
 | 161 | [Two Numbers With Odd Occurrences5846](https://www.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/1) | Medium | [Solution](Medium/two-numbers-with-odd-occurrences5846.java) |
 | 162 | [Reverse An Array](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Easy | [Solution](Easy/reverse-an-array.java) |
+| 163 | [Reverse An Array](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Easy | [Solution](Easy/reverse-an-array.java) |
